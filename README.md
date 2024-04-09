@@ -158,3 +158,9 @@ There's also a shortcut for linux/mac: `./build_all`.
 
 ## Questions? Problems?
 Post questions to this [Github project](https://github.com/googlesamples/google-signin-unity).
+
+# Tutorial
+- Install google-signin-unity in UPM
+- Install [unity-jar-resolver](https://github.com/googlesamples/unity-jar-resolver)
+- Copy GoogleService-Info.plist to XCode Project
+- Add Addtional url type in xcode [Example](https://chc3484.tistory.com/34)
